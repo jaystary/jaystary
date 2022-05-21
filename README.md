@@ -2,20 +2,20 @@
 
 #### I work in architecture and engineering of ML Systems bringing together Enterprise & Open Source
 
-##### NOW
+#### NOW
 Working on extending & improving Kubeflow towards an use-case centric ML Platform
 
 [Concept Paper](https://docs.google.com/document/d/1GABs13IyMnw_FDDrJHHZ-N99tgnZFP9erL6dHkSl1V8)
 
 
-##### BIO
+#### BIO
 
 I worked on some (successful and some not so successful) out-of-the-box projects in the ML & Data space.
 
 Picked up my fair share of Lessons learned along that path and always on the hunt for new things to learn
 
 
-##### Things i work with:
+#### Things i work with:
 
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -27,9 +27,7 @@ Picked up my fair share of Lessons learned along that path and always on the hun
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
@@ -43,7 +41,7 @@ Picked up my fair share of Lessons learned along that path and always on the hun
 - 🌍 I'm mostly active around Kubernetes and Kubeflow
 - 💬 Ask me about **Open Source Machine Learning** and its ecosystem, **Kubernetes**, **ML Lifecycle Optimization**, **Soup Dumplings** and the 🌌
 
-- ⚡️ Fun facts: ⛳ Hole in counter: 1
+- ⛳ Hole in counter: 1
 
 - 🌱 Motto: Eat first ask later - it broadens my perspective
 
