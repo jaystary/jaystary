@@ -36,6 +36,8 @@ Picked up my fair share of Lessons learned along that path and always on the hun
 
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+<br>
+
 
 
 - 🌍 I'm mostly active around Kubernetes and Kubeflow
