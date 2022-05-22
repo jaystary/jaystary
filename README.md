@@ -1,4 +1,4 @@
-## Hi i´m Jay 👋
+## Hi I´m Jay 👋
 
 #### I work in architecture and engineering of ML Systems bringing together Enterprise & Open Source
 
