@@ -41,7 +41,7 @@ Picked up my fair share of Lessons learned along that path and always on the hun
 
 
 - 🌍 I'm mostly active around Kubernetes and Kubeflow
-- 💬 Ask me about **Open Source Machine Learning** and its ecosystem, **Kubernetes**, **ML Lifecycle Optimization**, **Soup Dumplings** and the 🌌
+- 💬 Ask me about **Open Source Machine Learning** and its ecosystem, **Kubernetes**, **ML Lifecycle Optimization**, **Soup Dumplings** and the **Universe**
 
 - ⛳ Hole in counter: 1
 
