@@ -1,6 +1,6 @@
 ## Hi I´m Jay 👋
 
-#### I :yellow_heart: working with containers & Kubernetes in the ML space in a crossover over engineering & architecture
+#### I :yellow_heart: working with containers & Kubernetes in the ML space as architect & engineer
 
 #### NOW
 Working on extending & improving Kubeflow towards an use-case centric ML Platform
