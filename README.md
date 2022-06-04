@@ -1,6 +1,6 @@
 ## Hi I´m Jay 👋
 
-#### I work in architecture and engineering of ML Systems bringing together Enterprise & Open Source
+#### I :yellow_heart: working with containers & Kubernetes in the ML space
 
 #### NOW
 Working on extending & improving Kubeflow towards an use-case centric ML Platform
@@ -10,7 +10,7 @@ Working on extending & improving Kubeflow towards an use-case centric ML Platfor
 
 #### BIO
 
-I worked on some (successful and some not so successful) out-of-the-box projects in the ML & Data space.
+I worked on some (successful and some not so successful) out-of-the-box projects in the ML & Data space, building up Infra & Algorithms from scratch and bringing it into operations.
 
 Picked up my fair share of Lessons learned along that path and always on the hunt for new things to learn
 
