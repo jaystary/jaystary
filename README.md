@@ -53,7 +53,7 @@ Picked up my fair share of Lessons learned along that path and always on the hun
 🌆 Daytime    0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌃 Evening    0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌙 Night      100 commits       █████████████████████████   100%
-
+```
 
 #### My recent reading list:
 - Team Topologies: Organizing Business and Technology Teams for Fast Flow (Skelton et al)  
