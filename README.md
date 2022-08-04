@@ -2,12 +2,6 @@
 
 #### I :yellow_heart: working with distributed systems & Kubernetes in the ML space as architect & engineer
 
-#### NOW
-Working on extending & improving Kubeflow towards an enterprise capable use-case centric ML Platform
-
-[Concept Paper](https://docs.google.com/document/d/1GABs13IyMnw_FDDrJHHZ-N99tgnZFP9erL6dHkSl1V8)
-
-
 #### BIO
 
 I worked on some (successful and some not so successful) out-of-the-box projects in the ML & Data space, building up Infra & Algorithms from scratch and bringing it into operations.
@@ -41,7 +35,7 @@ Picked up my fair share of Lessons learned along that path and always on the hun
 
 
 - 🌍 I'm mostly active around Kubernetes and Kubeflow and their respective ecosystems
-- 💬 I´m interested in a lot of things such as **Soup Dumplings** and the **Universe**. And professional in **Open Source Machine Learning** and its ecosystem, **Kubernetes**, **ML Lifecycle Optimization**, **ML & Data Architecture**, **Engineering Management**, 
+- 💬 I´m interested in **Open Source Machine Learning** and its ecosystem, **Kubernetes**, **ML Lifecycle Optimization**, **ML & Data Architecture**, **Engineering Management**, 
 
 - ⛳ Hole in counter: 1
 
@@ -54,16 +48,3 @@ Picked up my fair share of Lessons learned along that path and always on the hun
 🌃 Evening    0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌙 Night      100 commits       █████████████████████████   100%
 ```
-
-#### My recent reading list:
-- Team Topologies: Organizing Business and Technology Teams for Fast Flow (Skelton et al)  
-- Accelerate: The Science Behind Devops: Building and Scaling High Performing Technology Organizations(Forsgren et al)  
-- Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr)
-- The Devops Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations (Kim et al)  
-- Modern Software Engineering: Doing What Works to Build Better Software Faster (Farley)
-- Observability Engineering (Majors et al)
-- Designing Machine Learning Systems (Huyen)
-- Reliable Machine Learning (Chen et al)
-- The Art of Immutable Architecture: Theory and Practice of Data Management in Distributed Systems (Perry)
-- System Design Interview - An Insider's Guide: Volume 2 (Xu)
-- Working in Public: The Making and Maintenance of Open Source Software (Eghbal)
