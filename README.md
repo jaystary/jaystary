@@ -1,47 +1,42 @@
-## Hi I´m Jay 👋
+## Hi I´m Jürgen 👋
 
-#### I :yellow_heart: working with distributed systems & Kubernetes in the ML space as architect & engineer
+#### I :yellow_heart: I´m a Solutions Architect for Enterprise AI Systems
 
 #### BIO
+I´m working since 2015 in AI & Data.
 
-I worked on some (successful and some not so successful) out-of-the-box projects in the ML & Data space, building up Infra & Algorithms from scratch and bringing it into operations.
+My current focus areas are:
 
-Picked up my fair share of Lessons learned along that path and always on the hunt for new things to learn. 
+- (Distributed) AI System Architecture
+- Knowledge Engineering
+- AI Security
+- GenAI & Softwaredevelopment
 
+My interests are at the intersection of probabaistic & deterministic systems and how to build resilient and useable solutions around that.
 
 #### Things i work with:
-
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
 <br>
 
-
-
-- 🌍 I'm mostly active around Kubernetes and Kubeflow and their respective ecosystems
-- 💬 I´m interested in **Open Source Machine Learning** and its ecosystem, **Kubernetes**, **ML Lifecycle Optimization**, **ML & Data Architecture**, **Engineering Management**, 
-
 - ⛳ Hole in counter: 1
-
-- 🌱 Motto: Eat first ask later - it broadens my perspective
-
 - I get productive after meetings....
+  
 ```text
 🌞 Morning    0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌆 Daytime    0 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
